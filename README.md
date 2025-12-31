@@ -18,15 +18,13 @@ To remove the tool, write: sudo apt remove machinepower
 
 proggramm will be update in the future. Thanks
 
----Italian----
+---Italian-------------------------------------------------------------------------------------
 
 Semplice strumento CLI Linux per il terminale o per la tua Distro senza gui.
 -Mostra da quanto tempo è acceso il pc
 -Quanta Ram stai utilizzando
 -La temperatura media della tua cpu.
-
-
-Il Proggramma sarà aggiornato in futuro per mostrare altro. 
+ 
 Per far funzionare il proggramma serve python3.
 
 Utilizzo:
