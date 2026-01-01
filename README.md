@@ -3,7 +3,7 @@ Simple Linux CLI tool that shows:
 Uptime of the Computer,
 RAM usage
 and medium CPU temperatures.
-
+And Gpu temperatures
 For the tool to function you will need:
 python3 (yeah)
 
@@ -17,17 +17,3 @@ machinepower
 To remove the tool, write: sudo apt remove machinepower
 
 proggramm will be update in the future. Thanks
-
----Italian-------------------------------------------------------------------------------------
-
-Semplice strumento CLI Linux per il terminale o per la tua Distro senza gui.
--Mostra da quanto tempo è acceso il pc
--Quanta Ram stai utilizzando
--La temperatura media della tua cpu.
- 
-Per far funzionare il proggramma serve python3.
-
-Utilizzo:
-
--machinepower
-Per rimuovere il pacchetto: sudo apt remove machinepower
