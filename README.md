@@ -1,4 +1,4 @@
-```bash# machinepower
+# machinepower
 Simple Linux CLI tool that shows:
 Uptime of the Computer,
 RAM usage
